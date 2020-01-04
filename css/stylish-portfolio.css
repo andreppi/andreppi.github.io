@@ -312,7 +312,7 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #8FE3D9;
+  background-color: rgb(59, 59, 59);
   -webkit-transition: background-color 0.15s ease-in-out;
   transition: background-color 0.15s ease-in-out;
   -webkit-box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
@@ -320,7 +320,7 @@ footer.footer .social-link {
 }
 
 footer.footer .social-link:hover {
-  background-color: #39B7A8;
+  background-color: rgb(22, 22, 22);
   text-decoration: none;
 }
 
