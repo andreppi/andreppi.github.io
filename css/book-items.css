@@ -1,9 +1,12 @@
+.column_product_widget_container {
+margin-left: 20px;
+}
 .mbssellwidget-productcard-container,
             .mbssellwidget-columnpanel-container {
                 display: block;
                 overflow: hidden;
                 background: #fff;
-                border: 2px solid #eaedef;
+                border: 2px solid #5d5e5f;
                 padding: 30px;
                 max-width: 590px;
                 margin: 0 auto;
@@ -97,9 +100,9 @@
 
             .mbssellwidget-sellbutton {
                 display: inline-block;
-                background: #f26222;
+                background: #4169E1;
                 color: #fff;
-                border: 0 solid #f26222;
+                border: 0 solid #4169E1;
                 font-family: "Open Sans", Arial, Helvetica, sans-serif;
                 font-size: 14px;
                 font-weight: 700;
@@ -112,9 +115,9 @@
             }
 
             .mbssellwidget-sellbutton:hover {
-                background: #ed520e;
-                border: 0 solid #f26222;
-                border-color: #ed520e;
+                background: #4169E1;
+                border: 0 solid #4169E1;
+                border-color: #4169E1;
                 color: #fff;
                 text-decoration: none
             }
