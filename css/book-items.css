@@ -146,8 +146,8 @@ margin-left: 20px;
     margin: 0
 }
 
-@media only screen and (max-width:768px) {
+/* @media only screen and (max-width:768px) {
     .mbssellwidget-columnpanel-covercontainer img {
         max-height: 220px;
     }
-}
+} */
